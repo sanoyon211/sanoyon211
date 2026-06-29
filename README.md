@@ -72,9 +72,10 @@ My goal is to join a forward-thinking team, deliver impactful solutions, and con
 ### 📊 Additional Stats
 
 <p align="center">
-  <a href="https://github.com/sanoyon211">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanoyon211&show_icons=true&theme=transparent&hide_border=false" width="49%" />
-  </a>
+ <a href="https://github.com/sanoyon211">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanoyon211&show_icons=true&theme=transparent&hide_border=false" width="49%" alt="Sanoyon211 GitHub Stats" />
+</a>
+
   <a href="https://github.com/sanoyon211">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanoyon211&layout=compact&theme=transparent&hide_border=false" width="49%" />
   </a>
