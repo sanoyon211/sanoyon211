@@ -1,67 +1,81 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a6f10a8d-923e-4efe-862f-49a37ca423a3" alt="Md Sohab Akter Noyon - Full Stack MERN Developer" width="100%" />
+ <img width="3780" height="1890" alt="Grey Modern Designer Profile Banner Landscape" src="https://github.com/user-attachments/assets/92ea5bd2-e3dc-42cf-9284-5dc63cc943d1" />
+
 </div>
 
-<div align="center">
-  <h2>Hey there! I'm Noyon 👋</h2>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Apps;React,+Next.js+%26+Node.js+Expert" alt="Typing SVG" />
-  </p>
+
+
+<br/>
+
+### Hi there 👋 I'm Md. Sohab Akter Noyon
+
+**I'm a MERN Stack Developer**
+
+<div align="left">
+  <a href="https://github.com/sanoyon211">
+     <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="250" />
+  </a>
+  <ul>
+    <li>🔭 I’m currently working on <strong>MediQueue, WarmHut, and Swift Express</strong></li>
+    <li>🌱 Learning everything about <strong>Frontend and Backend Technologies</strong> 🤩</li>
+    <li>🚀 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
+  </ul>
 </div>
+<br/>
 
-<br />
+### 🙇‍♂️ About Me
 
-## 👨‍💻 About Me
+I'm **Md. Sohab Akter Noyon**, a passionate **MERN Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications. 
+I specialize in React.js, Node.js, and MongoDB, and I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-I'm a **Full Stack Developer (MERN)** based in Dhaka, Bangladesh. I specialize in building high-performance, scalable, and visually appealing web applications. With a strong foundation in modern frontend architecture and robust backend logic, I focus on delivering clean, maintainable code and exceptional user experiences.
+⚡ I enjoy exploring new technologies, working on real-world projects, and constantly pushing my limits to become a better developer. Currently, I am actively contributing to full-stack projects using the latest tools like Next.js, Tailwind CSS, Stripe, and Cloudinary.
 
-- 🚀 Currently working extensively with **Next.js, React 19, and Tailwind CSS v4**.
-- 🛠️ Building complex full-stack solutions involving **Node.js, Express, MongoDB, and Socket.io**.
-- 💡 Passionate about UI/UX, micro-animations (Framer Motion), and AI-Assisted Development.
-- 📫 Reach me at: **sanoyon211@gmail.com**
+My goal is to join a forward-thinking team, deliver impactful solutions, and continue evolving into a high-performing full stack engineer.
 
-<br />
+🚀 Let's connect and build something amazing together!
 
-## 🚀 Featured Projects
+### 🌐 Connect with Me
 
-| Project & Link | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[WarmHut](https://github.com/sanoyon211)**<br/>*Premium E-Commerce* | React, Tailwind, Node.js, MongoDB, Socket.io | Full-stack winter wear platform with real-time support, Google OAuth, and an Admin dashboard. |
-| **[MediQueue](https://github.com/sanoyon211)**<br/>*Tutor Booking* | Next.js, Tailwind, Node.js, JWT | Educational platform with dynamic tutor discovery, secure booking, and a transactional backend. |
-| **[Swift Express](https://github.com/sanoyon211)**<br/>*Logistics Platform* | Next.js (App Router), React 19, Framer Motion | Cross-border logistics app with cost calculators, dynamic tracking, and smooth micro-animations. |
+<p align="left">
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://linkedin.com/in/sa-noyon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/+8801715825331" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:sanoyon211@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<br />
+### 🛠 Skill Set
 
-## 💻 Tech Stack & Tools
+**🎨 Front-End Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-**Frontend Architecture** <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark" />
+**🔧 Backend Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-**Backend & Database** <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+**🧰 Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" />
+</p>
 
-**UI/UX & Deployment** <br/>
-<img src="https://skillicons.dev/icons?i=figma,vercel,netlify,git,github,vscode&theme=dark" />
+### 📊 Additional Stats
 
-<br />
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanoyon211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanoyon211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages"/>
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanoyon211&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<br />
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sa-noyon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sanoyon211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.facebook.com/sa.noyon.602467" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/sanoyon211">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanoyon211&show_icons=true&theme=transparent&hide_border=false" width="49%" />
+  </a>
+  <a href="https://github.com/sanoyon211">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanoyon211&layout=compact&theme=transparent&hide_border=false" width="49%" />
+  </a>
+</p>
